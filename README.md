@@ -14,3 +14,27 @@ The data sets used can be found in the following [link](https://drive.google.com
 **Co-occurence based** contains the script for the co-occurence based analysis.
 
 **Usage based** contains the scripts needed for the usage based analysis
+
+
+## Developed by: 
+
+|           Name  (English/Greek)                    |      e-mail          |
+| ---------------------------------------------------| ---------------------|
+| Nikolaos Mylonas    (Νικόλαος Μυλωνάς)             | myloniko@csd.auth.gr |
+| Eirini Papagiannopoulou (Ειρήνη Παπαγιαννοπούλου)  | epapagia@csd.auth.gr |
+| Grigorios Tsoumakas (Γρηγόριος Τσουμάκας)          | greg@csd.auth.gr     |
+
+## Funded by
+
+The research work was supported by the Hellenic Foundation forResearch and Innovation (H.F.R.I.) under the “First Call for H.F.R.I.Research Projects to support Faculty members and Researchers and the procurement of high-cost research equipment grant” (ProjectNumber: 514).
+
+## Additional resources
+
+- [AMULET project](https://www.linkedin.com/showcase/amulet-project/about/)
+- [Academic Team's page](https://intelligence.csd.auth.gr/#)
+ 
+ ![amulet-logo](https://user-images.githubusercontent.com/6009931/87019683-9204ad00-c1db-11ea-9394-855d1d3b41b3.png)
+
+
+
+
