@@ -21,7 +21,7 @@ The data sets used can be found in the following [link](https://drive.google.com
 |           Name  (English/Greek)                    |      e-mail          |
 | ---------------------------------------------------| ---------------------|
 | Nikolaos Mylonas    (Νικόλαος Μυλωνάς)             | myloniko@csd.auth.gr |
-| Eirini Papagiannopoulou (Ειρήνη Παπαγιαννοπούλου)  | epapagia@csd.auth.gr |
+| Ioannis Mollas      (Ιωάννης Μολλάς)               | iamollas@csd.auth.gr |
 | Grigorios Tsoumakas (Γρηγόριος Τσουμάκας)          | greg@csd.auth.gr     |
 
 ## Funded by
