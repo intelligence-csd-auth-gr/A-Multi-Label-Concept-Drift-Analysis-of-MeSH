@@ -13,8 +13,6 @@ The data sets used can be found in the following [link](https://drive.google.com
 
 **Co-occurence based** contains the script for the co-occurence based analysis.
 
-**Usage based** contains the scripts needed for the usage based analysis
-
 
 ## Developed by: 
 
