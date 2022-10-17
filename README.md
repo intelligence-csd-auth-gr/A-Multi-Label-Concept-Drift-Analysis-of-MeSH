@@ -1,8 +1,9 @@
-# A-Three-way-Analysis-of-Multi-Label-Concept-Drift-in-MeSH
+# Beyond MeSH Annual Revisions: A Multi-Label Concept Drift Analysis
+This repository contains the code for our paper.
 
-This repository contains the code for our paper with title: 
+## Abstract:
+MeSH (Medical Subject Headings) is a hierarchically structured thesaurus used for indexing biomedical information. This vocabulary contains most of the biomedical knowledge available to date. To keep up with the continuous evolution and expanding of our understanding on the medical field, yearly revisions take place in MeSH. These revisions introduce new descriptors in the thesaurus, in addition to changes in already existing ones, either directly or indirectly. This constant evolution of the thesaurus causes many older descriptors to exhibit some form of drift in their meaning, which in turn affects the performance of Machine Learning models trained on an older version of the thesaurus when used to predict data obtained from more recent versions. In this paper, we study the phenomenon of concept drift in MeSH, through evaluating the performance of a state-of-the-art text classification algorithm in articles from different years. We also investigate how changes in descriptors indirectly affect different ones that are related to them by studying the shifts in their co-occurrence, using this shift as a measure of concept drift.
 
-### A-Three-way-Analysis-of-Multi-Label-Concept-Drift-in-MeSH
 
 ## Files
 The data sets used can be found in the following [link](https://drive.google.com/drive/folders/10SvWVJAi7yo1-kZf24BrJzkDaXkfAfD4?usp=sharing), while the predictions from BERT for each year that were used for the Performance based method can be seen [here](https://drive.google.com/drive/folders/11y1tyrA9cNjW2ZGPA30dCs2pezE3gHXU?usp=sharing)
